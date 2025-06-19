@@ -80,7 +80,7 @@ data = [
             {"id": "chatgpt-4o-latest","model":"chatgpt-4o-latest", "object": "model", "created": 17503119683, "owned_by": "OpenAI","type":"text"},
             {"id": "gpt-4o-mini-2024-07-18","model":"gpt-4o-mini-2024-07-18", "object": "model", "created": 17503119683, "owned_by": "OpenAI","type":"text"},
             {"id": "deepseek-v3","model":"deepseek-v3", "object": "model", "created": 17503119683, "owned_by": "OpenAI","type":"text"},
-            {"id": "deepseek-r1","model":"deepseek-r1", "object": "model", "created": 17503119683, "owned_by": "OpenAI","type":"text"},
+            {"id": "deepseek-r1","model":"deepseek-r1", "object": "model", "created": 17503119683, "owned_by": "TP","type":"text"},
             {"id": "uncensored-r1","model":"uncensored-r1", "object": "model", "created": 17503119683, "owned_by": "TP","type":"text"},
             {"id": "Image-Generator","model":"Image-Generator", "object": "model", "created": 17503119683, "owned_by": "TP","type":"image"}
         ]
