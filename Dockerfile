@@ -30,7 +30,9 @@ WORKDIR /app
 
 # Copy Python packages and application files
 COPY --from=builder /usr/local/lib/python3.11/site-packages /usr/local/lib/python3.11/site-packages
-COPY more_core.py tp.py ./
+#COPY more_core.py tp.py ./
+
+COPY *.py ./
 
 # Install runtime dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \

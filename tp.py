@@ -30,7 +30,7 @@ cache_duration = 14400  # 缓存有效期，单位：秒 (4小时)
 cached_models = {
     "object": "list",
     "data": [],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "provider": "TP",
     "name": "TP",
     "default_locale": "en-US",
