@@ -9,6 +9,10 @@ docker run -p 7860:7860 -m 2g -e DEBUG=false tpp
 
 
 
+
+docker run -d --restart always  --name tp  -p 7860:7860 ghcr.io/hhhaiai/tp:latest
+
+
 curl http://127.0.0.1:7860/v1/models
 
 
