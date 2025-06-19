@@ -1,0 +1,11 @@
+aiohttp
+apscheduler
+beautifulsoup4
+fastapi
+requests
+starlette
+tiktoken
+urllib3
+uvicorn
+uvloop
+httptools
